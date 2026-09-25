@@ -1,0 +1,10 @@
+metric,value
+synthetic_number_of_points,24.0
+synthetic_frame_trials,250.0
+synthetic_monte_carlo_trials_per_condition,4000.0
+distance_reconstruction_rmse_allow_reflection_m,2.9701702222673244e-09
+distance_reconstruction_rmse_proper_only_m,6136173.251345326
+proper_rotation_north_south_accuracy,1.0
+proper_rotation_east_west_accuracy,1.0
+reflection_north_south_accuracy,1.0
+reflection_east_west_accuracy,0.0

@@ -1,0 +1,10 @@
+model,stored_information,identifiable_quantities,remaining_ambiguity
+M0,labeled entities only,entity identity only,unconstrained geometry
+M1,+ selected chord distances,recorded edge lengths,graph-dependent
+M2,+ locally rigid distance graph with known metric scale,local Euclidean shape,Euclidean isometry E(3); possibly discrete noncongruent embeddings
+M3,+ complete labeled Euclidean chord-distance matrix,global Euclidean shape for a generic full-dimensional configuration,translation and O(3)
+M4,+ fixed origin or centered coordinates,origin-referenced shape,O(3)
+M5,+ independently interpreted directed axis,axial latitude ordering,residual invariance group O(2)
+M6,+ physically recoverable chiral witness,signed relative longitude away from degeneracies,proper axial rotations SO(2)
+M7,+ independently recoverable directed meridian,absolute angular origin about the axis,identity
+Metadata,"+ observation epoch, entity continuity, units, and model provenance",time-indexed physical interpretation,model and measurement uncertainty remain
