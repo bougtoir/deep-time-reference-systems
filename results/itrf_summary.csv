@@ -1,0 +1,10 @@
+metric,value,unit
+n_selected_sites,16.0,count
+maximum_coordinate_standard_uncertainty_m,0.02,m
+distance_reconstruction_rmse_m,3.6132759390917642e-09,m
+axial_reflection_north_south_accuracy,1.0,proportion
+axial_reflection_east_west_accuracy,0.0,proportion
+maximum_pairwise_distance_change_m,0.6906252605840564,m
+median_pairwise_distance_change_m,0.09072410129010677,m
+reference_epoch,2015.0,decimal_year
+comparison_epoch,2025.0,decimal_year
