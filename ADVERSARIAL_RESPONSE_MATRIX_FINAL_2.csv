@@ -1,0 +1,13 @@
+id,criticism,severity,disposition,evidence
+M1,Novelty overlaps datum-defect/free-network theory,minor,accepted-and-bounded,intro and cover letter scope the shifted question
+M2,Limited mathematical depth,minor,accepted-and-bounded,propositions scoped to generic assumptions; supplement S1 degeneracies
+M3,Local-rigidity results could be read as global,resolved,resolved,captions/text/supplement all state local-only
+M4,Chirality claim could overreach,resolved,resolved,stored-bit sufficiency explicitly conditional
+M5,ITRF demo could be misread as reflection,resolved,resolved,Fig 5 caption states epoch-sensitivity calculation
+M6,Public repo not proven to regenerate package,resolved,resolved,PUBLIC_REPO_SYNC_AUDIT.md + fresh-clone run
+M7,Zero OMML equations in DOCX,resolved,resolved,90 m:oMath; WORD_OMML_AUDIT.md
+M8,Supplementary S1/S3 tables uncited,resolved,resolved,cited in Methods; FIGURE_TABLE_CITATION_AUDIT.md
+M9,Traceability stale (S1 vs S2),resolved,resolved,result_traceability.csv corrected + S1/S3 rows
+M10,Hard-coded results possible,resolved,resolved,hardcode_inventory.csv F/G empty + guard test
+M11,Orphan references/citations,resolved,resolved,bidirectional citation test passes
+M12,Weak practical significance,minor,accepted-and-bounded,journal fit 3/5; honest framing

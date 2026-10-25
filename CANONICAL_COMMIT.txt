@@ -1,0 +1,12 @@
+Canonical public source for the Journal of Geodesy submission package
+
+Private source: bougtoir/wip branch devin/1792230689-jog-final-audit,
+subdirectory deep_time_reference_systems/.
+
+Public mirror : https://github.com/bougtoir/deep-time-reference-systems
+Canonical commit (public main, reproduced fresh-clone):
+9f833606a906c4b4e5a85ed0e982de989b96b1ba
+
+wip content commit mirrored by that public commit:
+10b6589f83821fda78bdc109cc28e1164c7c104d
+PUBLIC_MAIN_HEAD=bfe70568f603d20ab220e9db647f20727447d9c0

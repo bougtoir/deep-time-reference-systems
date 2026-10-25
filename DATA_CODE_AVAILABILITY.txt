@@ -1,0 +1,14 @@
+Data availability
+
+The persisted ITRF2020 SLR source file, its checksum ledger, the processed
+station selection, simulation configurations, and generated numerical results
+are available in the public repository at
+https://github.com/bougtoir/deep-time-reference-systems. The authoritative ITRF
+source is
+https://itrf.ign.fr/ftp/pub/itrf/itrf2020/ITRF2020_SLR.SSC.txt.
+
+Code availability
+
+The complete reproducible Python analysis and document-generation pipeline,
+pinned configuration, tests, and reproducibility archive are available at
+https://github.com/bougtoir/deep-time-reference-systems.
