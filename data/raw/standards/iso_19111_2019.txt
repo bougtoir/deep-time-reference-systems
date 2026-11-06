@@ -1,0 +1,170 @@
+Skip to main content
+ Applications
+ OBP
+English
+Standards
+Sectors
+About ISO
+Insights & news
+Taking part
+Store
+Search
+Reference number
+ISO 19111:2019
+© ISO 2026
+INTERNATIONAL STANDARD
+ISO 19111:2019
+Geographic information — Referencing by coordinates
+Edition 3
+2019-01
+Read sample
+ISO 19111:2019
+74039
+ISO 19111:2019
+Geographic information — Referencing by coordinates
+Published (Edition 3, 2019)
+This publication was last reviewed and confirmed in 2024. Therefore this version remains current.
+ This standard has 2 amendments.
+ISO 19111:2019
+ISO 19111:2019
+74039
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+227
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Abstract
+
+This document defines the conceptual schema for the description of referencing by coordinates. It describes the minimum data required to define coordinate reference systems. This document supports the definition of:
+
+— spatial coordinate reference systems where coordinate values do not change with time. The system may:
+
+— be geodetic and apply on a national or regional basis, or
+— apply locally such as for a building or construction site, or
+— apply locally to an image or image sensor;
+— be referenced to a moving platform such as a car, a ship, an aircraft or a spacecraft. Such a coordinate reference system can be related to a second coordinate reference system which is referenced to the Earth through a transformation that includes a time element;
+
+— spatial coordinate reference systems in which coordinate values of points on or near the surface of the earth change with time due to tectonic plate motion or other crustal deformation. Such dynamic systems include time evolution, however they remain spatial in nature;
+
+— parametric coordinate reference systems which use a non-spatial parameter that varies monotonically with height or depth;
+
+— temporal coordinate reference systems which use dateTime, temporal count or temporal measure quantities that vary monotonically with time;
+
+— mixed spatial, parametric or temporal coordinate reference systems.
+
+The definition of a coordinate reference system does not change with time, although in some cases some of the defining parameters can include a rate of change of the parameter. The coordinate values within a dynamic and in a temporal coordinate reference system can change with time.
+
+This document also describes the conceptual schema for defining the information required to describe operations that change coordinate values.
+
+In addition to the minimum data required for the definition of the coordinate reference system or coordinate operation, the conceptual schema allows additional descriptive information - coordinate reference system metadata - to be provided.
+
+This document is applicable to producers and users of geographic information. Although it is applicable to digital geographic data, the principles described in this document can be extended to many other forms of spatial data such as maps, charts and text documents.
+
+General information
+
+Note: This standard is updated by a Maintenance Agency or Registration Authority
+
+Status : Published
+Publication date : 2019-01
+Stage : International Standard to be revised [90.92]
+Edition : 3
+Number of pages : 143
+Technical Committee : ISO/TC 211
+ICS : 35.240.70 
+RSS updates
+ Amendments
+
+Amendments are issued when it is found that new material may need to be added to an existing standardization document. They may also include editorial or technical corrections to be applied to the existing document.
+
+Amendment 1
+
+Edition 2021
+
+ISO 19111:2019/Amd 1:2021
+81673
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+18
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Amendment 2
+
+Edition 2023
+
+ISO 19111:2019/Amd 2:2023
+86173
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+18
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Life cycle
+Previously
+Withdrawn
+ISO 19111-2:2009
+Withdrawn
+ISO 19111:2007
+ 
+Now
+Published
+ISO 19111:2019
+A standard is reviewed every 5 years
+Stage: 90.92 (To be revised)
+Amendments
+Provide additional content; available for purchase; not included in the text of the existing standard.
+Published
+ISO 19111:2019/Amd 1:2021
+Published
+ISO 19111:2019/Amd 2:2023
+ 
+Will be replaced by
+Under development
+ISO/AWI 19111.2
+
+This standard contributes to the following Sustainable Development Goal
+
+9
+INDUSTRY, INNOVATION AND INFRASTRUCTURE
+Got a question?
+
+Check out our Help and Support
+
+Store
+Store
+ICS
+35
+35.240
+35.240.70
+ISO 19111:2019
+Sitemap
+ISO name and logo
+Privacy Notice
+Copyright
+Cookie policy
+Media kit
+Jobs
+Help and support
+
+Making lives easier, safer and better.
+
+Sign up
+ 
+for email updates
+ 
+     
+© All Rights Reserved

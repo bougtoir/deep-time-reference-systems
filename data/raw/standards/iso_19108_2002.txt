@@ -1,0 +1,99 @@
+Skip to main content
+ Applications
+ OBP
+English
+Standards
+Sectors
+About ISO
+Insights & news
+Taking part
+Store
+Search
+Reference number
+ISO 19108:2002
+© ISO 2026
+INTERNATIONAL STANDARD
+ISO 19108:2002
+Geographic information — Temporal schema
+Edition 1
+2002-09
+Read sample
+ISO 19108:2002
+26013
+ISO 19108:2002
+Geographic information — Temporal schema
+Published (Edition 1, 2002)
+This publication was last reviewed and confirmed in 2026. Therefore this version remains current.
+ISO 19108:2002
+ISO 19108:2002
+26013
+Language
+English
+Format
+PDF
+Paper
+CHF
+181
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Abstract
+
+ISO 19108:2002 defines concepts for describing temporal characteristics of geographic information. It depends upon existing information technology standards for the interchange of temporal information. It provides a basis for defining temporal feature attributes, feature operations, and feature associations, and for defining the temporal aspects of metadata about geographic information. Since this International Standard is concerned with the temporal characteristics of geographic information as they are abstracted from the real world, it emphasizes valid time rather than transaction time.
+
+General information
+
+Note: This standard is updated by a Maintenance Agency or Registration Authority
+
+Status : Published
+Publication date : 2002-09
+Stage : International Standard confirmed [90.93]
+Edition : 1
+Number of pages : 48
+Technical Committee : ISO/TC 211
+ICS : 35.240.70 
+RSS updates
+Life cycle
+Now
+Published
+ISO 19108:2002
+A standard is reviewed every 5 years
+Stage: 90.93 (Confirmed)
+Corrigenda
+Correct the current edition; free; not included in the text of the existing standard.
+Published
+ISO 19108:2002/Cor 1:2006
+
+This standard contributes to the following Sustainable Development Goals
+
+13
+CLIMATE ACTION
+9
+INDUSTRY, INNOVATION AND INFRASTRUCTURE
+Got a question?
+
+Check out our Help and Support
+
+Store
+Store
+ICS
+35
+35.240
+35.240.70
+ISO 19108:2002
+Sitemap
+ISO name and logo
+Privacy Notice
+Copyright
+Cookie policy
+Media kit
+Jobs
+Help and support
+
+Making lives easier, safer and better.
+
+Sign up
+ 
+for email updates
+ 
+     
+© All Rights Reserved

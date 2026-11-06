@@ -1,0 +1,114 @@
+Skip to main content
+ Applications
+ OBP
+English
+Standards
+Sectors
+About ISO
+Insights & news
+Taking part
+Store
+Search
+Reference number
+ISO 19157-1:2023
+© ISO 2026
+INTERNATIONAL STANDARD
+ISO 19157-1:2023
+Geographic information — Data quality — Part 1: General requirements
+Edition 1
+2023-04
+Read sample
+ISO 19157-1:2023
+78900
+ISO 19157-1:2023
+Geographic information — Data quality
+Part 1: General requirements
+Published (Edition 1, 2023)
+ Will replace ISO 19157:2013
+ISO 19157-1:2023
+ISO 19157-1:2023
+78900
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+227
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Abstract
+
+This document establishes the principles for describing the quality of geographic data. It:
+
+—    defines a well-considered system of components for describing data quality;
+
+—    defines the process for defining additional, domain-specific components for describing data quality;
+
+—    specifies components and the content structure of data quality measures;
+
+—    describes general procedures for evaluating the quality of geographic data;
+
+—    establishes principles for reporting data quality.
+
+This document is applicable to data producers providing quality information to describe and assess how well a dataset conforms to its product specification and to data users attempting to determine whether or not specific geographic data are of sufficient quality for their particular application.
+
+This document does not attempt to define minimum acceptable levels of quality for geographic data. Such information is usually present as a requirement in a data product specification, defined in accordance with ISO 19131, for example.
+
+General information
+
+Note: This standard is updated by a Maintenance Agency or Registration Authority
+
+Status : Published
+Publication date : 2023-04
+Stage : International Standard published [60.60]
+Edition : 1
+Number of pages : 102
+Technical Committee : ISO/TC 211
+ICS : 35.240.70 
+RSS updates
+Life cycle
+Previously
+Published
+ISO 19157:2013
+Published
+ISO 19157:2013/Amd 1:2018
+ 
+Now
+Published
+ISO 19157-1:2023
+Stage: 60.60
+
+This standard contributes to the following Sustainable Development Goal
+
+9
+INDUSTRY, INNOVATION AND INFRASTRUCTURE
+Got a question?
+
+Check out our Help and Support
+
+Store
+Store
+ICS
+35
+35.240
+35.240.70
+ISO 19157-1:2023
+Sitemap
+ISO name and logo
+Privacy Notice
+Copyright
+Cookie policy
+Media kit
+Jobs
+Help and support
+
+Making lives easier, safer and better.
+
+Sign up
+ 
+for email updates
+ 
+     
+© All Rights Reserved

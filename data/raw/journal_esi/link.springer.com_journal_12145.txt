@@ -1,0 +1,170 @@
+Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our privacy policy for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies
+Reject optional cookies
+Skip to main content
+Log in
+Find a journal
+Publish with us
+Track your research
+Search
+ Saved research
+ Cart
+Home  Earth Science Informatics
+Earth Science Informatics
+Publishing model
+Hybrid
+Submit your manuscript
+Save journal
+Explore open access funding Select institution
+About this journal
+Articles
+For authors
+Journal updates
+Overview
+
+Earth Science Informatics [ESIN] aims for rapid publication of high-quality, current, cutting-edge, and provocative scientific work in the area of Earth Science Informatics as it relates to Earth systems science and space science. Appropriate subject matter include:
+
+Articles on the application of formal and computational methods, computational Earth science, spatial and temporal analyses, and all aspects of computer applications to the Earth system.
+Research, methodology, and software articles.
+Editorials, comments, and book and software reviews.
+Review articles of relevant findings, topics, and methodologies.
+Editor-in-Chief
+Hassan A. Babaie PhD
+View all editors 
+Journal metrics
+Journal Impact Factor
+4.2 (2025)
+5-year Journal Impact Factor
+3.8 (2025)
+Submission to first decision (median)
+7 days
+Downloads
+543.5k (2025)
+Call for papers
+
+Collection
+
+Sustainable Development Goal 13: Climate Action (ESIN)
+
+Sustainable Development Goal 13 (SDG 13) is to limit and adapt to climate change.
+
+Status
+Open for submissions
+Submission deadline
+Ongoing
+View all calls for papers
+Latest articles
+Geo-CausalNLI: a causality-aware natural language inference method for mining pattern discovery in geology
+Qian TianKai XuZongling Li
+Research
+06 November 2026
+Article: 237
+Synthesis and physicochemical characterization of ZnO-modified Fe₂O₃ nanoparticles with HCNFF-based prediction and AQAI-Net-based optimization for environmental applications
+Pradeep Kumar SinghVinod Kumar Naidu PamuluriMahendran Arumugam
+Research
+03 November 2026
+Article: 236
+Explainable GeoAI for glacier surface velocity variability in the Western Himalaya
+Vansheika ThakurChander Prakash
+Research
+30 October 2026
+Article: 235
+Part of 1 collection:
+Sustainable Development Goal 13: Climate Action (ESIN)
+Adaptive dual-segmentation based deep learning framework for minerals quantification and classification in microscopic images
+Priyadharshini SolaimalaiEswaran Perumal
+Research
+29 October 2026
+Article: 234
+Terrain-aware diffusion refinement for high-fidelity digital elevation model super-resolution
+Guoqing HouNi LiGuanghong Gong
+Research
+29 October 2026
+Article: 233
+View all articles
+This journal has 
+259 open access articles
+Journal updates
+Springer Nature Editor of Distinction Awards 2026
+Past Special Issues
+View all updates
+Sign up for alerts
+
+Get notified when new articles are published.
+
+Journal information
+Electronic ISSN
+1865-0481
+ 
+Print ISSN
+1865-0473
+Abstracted and indexed in
+AGRICOLA
+ANVUR
+Astrophysics Data System (ADS)
+Baidu
+CAB Abstracts
+CLOCKSS
+CNKI
+CNPIEC
+Chinese Academy of Medical Science (CAMS)
+DBLP
+Dimensions
+EBSCO
+Engineering Village – GEOBASE
+GeoRef
+Google Scholar
+INSPEC
+Japanese Science and Technology Agency (JST)
+Naver
+OCLC WorldCat Discovery Service
+Ovid Discovery
+Portico
+ProQuest
+SCImago
+SCOPUS
+Science Citation Index Expanded (SCIE)
+Semantic Scholar
+TD Net Discovery Service
+Wanfang
+eLibrary.ru
+© Springer-Verlag GmbH Germany, part of Springer Nature
+Footer Navigation
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Corporate Navigation
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support Legal notice Cancel contracts here
+
+140.232.64.9
+
+Not affiliated
+
+© 2026 Springer Nature

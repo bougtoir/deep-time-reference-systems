@@ -1,0 +1,81 @@
+Your privacy, your choice
+
+We use essential cookies to make sure the site can function. We also use optional cookies for advertising, personalisation of content, usage analysis, and social media, as well as to allow video information to be shared for both marketing, analytics and editorial purposes.
+
+By accepting optional cookies, you consent to the processing of your personal data - including transfers to third parties. Some third parties are outside of the European Economic Area, with varying standards of data protection.
+
+See our privacy policy for more information on the use of your personal data.
+
+Manage preferences for further information and to change your choices.
+
+Accept all cookies
+Reject optional cookies
+Skip to main content
+Log in
+Find a journal
+Publish with us
+Track your research
+Search
+ Saved research
+ Cart
+Home  Earth Science Informatics  Aims and scope
+Earth Science Informatics
+Publishing model
+Hybrid
+Submit your manuscript
+Save journal
+Explore open access funding Select institution
+About this journal
+Articles
+For authors
+Journal updates
+Aims and scope
+
+The Earth Science Informatics [ESIN] journal aims at rapid  publication of high-quality, current, cutting-edge, and provocative scientific work in the area of Earth Science Informatics as it relates to Earth systems science and space science. This includes articles on the application of formal and computational methods, computational Earth science, spatial and temporal analyses, and all aspects of computer applications to the acquisition, storage, processing, interchange, and visualization of data and information about the materials, properties, processes, features, and phenomena that occur at all scales and locations in the Earth system’s five components (atmosphere, hydrosphere, geosphere, biosphere, cryosphere) and in space (see "About this journal" for more detail). The journal publishes research, methodology, and software articles, as well as editorials, comments, and book and software reviews. Review articles of relevant findings, topics, and methodologies are also considered.
+
+Research, Technology and Education Objectives
+
+ESIN will help to develop and shape the new field of Earth Science Informatics. It is intended to provide a dissemination platform for research using systems-based approaches to solve multi-scale Earth science problems by encouraging the development of robust formal and computational models and information systems. Since Earth Science Informatics is a new field just now emerging there is little precedence how to formally educate traditional domain knowledge-oriented scientists and engineers to become informaticists, and also how to effectively integrate cyberinfrastructure into Earth science education. The Earth Science Informatics journal will act as a venue to share experiences and concepts for educational approaches to accomplish the training of the next generation of Earth science informaticists as well as bringing cyberinfrastructure into the scholarly and graduate-level education.
+
+Rationale for the Journal
+
+Earth Science Informatics is a rapidly developing, interdisciplinary field with the potential to have a significant impact on the advancement of Earth system science by deriving new knowledge about the Earth system through formal information-rich and semantic-based approaches. Analysis and understanding of complex Earth phenomena and processes necessitate the integration of field, experimental, theoretical, and computation research through informatics.
+
+Scope Guidance:
+
+To ensure a timely and efficient review process, authors should note that Earth Science Informatics primarily publishes research whose principal contribution is to the field of Earth science informatics. Manuscripts focused predominantly on application domains that are well served by specialized disciplinary journals—including agriculture, remote sensing, geography (e.g., urban studies, human geography, GIS applications, land-use and land-cover change), geotechnical engineering, petroleum engineering, meteorology, wildfire research, image-classification applications, and related areas—may fall outside the journal's scope. Authors are encouraged to carefully assess the fit of their manuscript before submission to identify the most appropriate publication venue for their work.
+
+ 
+
+Information on Open Research Funding and Support may be found here: https://www.springernature.com/gp/open-research/institutional-agreements
+
+Footer Navigation
+Discover content
+Journals A-Z
+Books A-Z
+Subjects A-Z
+Publish with us
+Journal finder
+Publish your research
+Language editing
+Open access publishing
+Products and services
+Our products
+Librarians
+Societies
+Partners and advertisers
+Our brands
+Springer
+Nature Portfolio
+BMC
+Palgrave Macmillan
+Apress
+Discover
+Corporate Navigation
+Your privacy choices/Manage cookies Your US state privacy rights Accessibility statement Terms and conditions Privacy policy Help and support Legal notice Cancel contracts here
+
+140.232.64.9
+
+Not affiliated
+
+© 2026 Springer Nature

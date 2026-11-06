@@ -1,0 +1,17 @@
+Scenario,B false certainty,B correct unique,BR false certainty,BR correct unique,E false certainty,E correct unique,E honest ambiguity,B flagged invalid,D correct unique
+S0 intact,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+S1a CRS block lost (standard),0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+S1b CRS block lost (left-handed),0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+S1c CRS block lost (rotated),0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+"S2 CRS id lost, parameters kept",0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+S3 coordinate epoch lost,0.0,0.516,0.0,0.516,0.0,1.0,0.0,0.0,1.0
+S4 silent handedness flip,0.274,0.726,0.274,0.726,0.0,1.0,0.0,0.0,1.0
+S5 labelled axis swap,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0
+S6 identifier collision,0.0,0.762,0.0,0.762,0.0,0.762,0.123,0.0,0.762
+S7 chiral witness absent,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.726
+S8 chiral witness invalid,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.726
+S9 CRS and witness lost,0.0,0.0,0.0,1.0,0.0,0.726,0.274,0.0,0.726
+S10 epoch-mislabelled values,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0
+S11 unflagged 5 cm error,0.137,0.863,0.137,0.863,0.0,0.875,0.125,0.0,1.0
+"S12 sparse relations, CRS lost",0.0,0.0,0.0,1.0,0.0,0.234,0.0,0.0,0.234
+"S13 epoch mislabel, hash re-issued",0.415,0.585,0.415,0.585,0.0,0.609,0.391,0.0,1.0

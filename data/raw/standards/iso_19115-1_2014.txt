@@ -1,0 +1,169 @@
+Skip to main content
+ Applications
+ OBP
+English
+Standards
+Sectors
+About ISO
+Insights & news
+Taking part
+Store
+Search
+Reference number
+ISO 19115-1:2014
+© ISO 2026
+INTERNATIONAL STANDARD
+ISO 19115-1:2014
+Geographic information — Metadata — Part 1: Fundamentals
+Edition 1
+2014-04
+Read sample
+ISO 19115-1:2014
+53798
+ISO 19115-1:2014
+Geographic information — Metadata
+Part 1: Fundamentals
+Published (Edition 1, 2014)
+This publication was last reviewed and confirmed in 2019. Therefore this version remains current.
+ This standard has 2 amendments.
+ISO 19115-1:2014
+ISO 19115-1:2014
+53798
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+227
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Abstract
+
+ISO 19115-1:2014 defines the schema required for describing geographic information and services by means of metadata. It provides information about the identification, the extent, the quality, the spatial and temporal aspects, the content, the spatial reference, the portrayal, distribution, and other properties of digital geographic data and services.
+
+ISO 19115-1:2014 is applicable to:
+
+-the cataloguing of all types of resources, clearinghouse activities, and the full description of datasets and services;
+
+-geographic services, geographic datasets, dataset series, and individual geographic features and feature properties.
+
+ISO 19115-1:2014 defines:
+
+-mandatory and conditional metadata sections, metadata entities, and metadata elements;
+
+-the minimum set of metadata required to serve most metadata applications (data discovery, determining data fitness for use, data access, data transfer, and use of digital data and services);
+
+-optional metadata elements to allow for a more extensive standard description of resources, if required;
+
+-a method for extending metadata to fit specialized needs.
+
+Though ISO 19115-1:2014 is applicable to digital data and services, its principles can be extended to many other types of resources such as maps, charts, and textual documents as well as non-geographic data. Certain conditional metadata elements might not apply to these other forms of data.
+
+General information
+Status : Published
+Publication date : 2014-04
+Stage : International Standard to be revised [90.92]
+Edition : 1
+Number of pages : 167
+Technical Committee : ISO/TC 211
+ICS : 35.240.70 
+RSS updates
+ Amendments
+
+Amendments are issued when it is found that new material may need to be added to an existing standardization document. They may also include editorial or technical corrections to be applied to the existing document.
+
+Amendment 1
+
+Edition 2018
+
+ISO 19115-1:2014/Amd 1:2018
+73118
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+18
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Amendment 2
+
+Edition 2020
+
+ISO 19115-1:2014/Amd 2:2020
+80275
+Language
+English
+French
+Format
+PDF + ePub
+Paper
+CHF
+18
+Add to cart
+Convert Swiss francs (CHF) to your currency
+Life cycle
+Previously
+Withdrawn
+ISO 19115:2003
+Withdrawn
+ISO 19115:2003/Cor 1:2006
+ 
+Now
+Published
+ISO 19115-1:2014
+A standard is reviewed every 5 years
+Stage: 90.92 (To be revised)
+Amendments
+Provide additional content; available for purchase; not included in the text of the existing standard.
+Published
+ISO 19115-1:2014/Amd 1:2018
+Published
+ISO 19115-1:2014/Amd 2:2020
+ 
+Will be replaced by
+Under development
+ISO/CD 19115-1
+
+This standard contributes to the following Sustainable Development Goals
+
+9
+INDUSTRY, INNOVATION AND INFRASTRUCTURE
+13
+CLIMATE ACTION
+14
+LIFE BELOW WATER
+15
+LIFE ON LAND
+Got a question?
+
+Check out our Help and Support
+
+Store
+Store
+ICS
+35
+35.240
+35.240.70
+ISO 19115-1:2014
+Sitemap
+ISO name and logo
+Privacy Notice
+Copyright
+Cookie policy
+Media kit
+Jobs
+Help and support
+
+Making lives easier, safer and better.
+
+Sign up
+ 
+for email updates
+ 
+     
+© All Rights Reserved
