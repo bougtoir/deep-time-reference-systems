@@ -1,0 +1,13 @@
+id,criticism,severity,action,manuscript_location,evidence,status
+1,BR reconciliation ignored keys missing from one copy; B lacked fixity,major,Fixed in code; results regenerated,Methods (Representations); Results; Table 3,src/dtrs/records/decode.py; tests/test_records.py::test_redundant_copy_repairs_field_missing_from_primary; RESULT_CHANGELOG.md,resolved
+2,S10 advantage depended on a stale hash,major,B/BR fixity added; S13 export-side variant added,Methods (Scenarios); Results (silent corruption),tests/test_records.py::test_baseline_fixity_flags_post_export_corruption; rec_S13_*,resolved
+3,Unequal information between B and E,major,D/BR comparisons and digital-witness ablation reported; D equally safe stated,Discussion,rec_ablation_*; Table 3 D column,bounded
+4,Scenarios are author-designed,major,Stated as specified failure modes; negative cases retained,Limitations,Table 3,bounded
+5,Anchors computed from truth; independence stipulated,major,Stated explicitly,Limitations,src/dtrs/records/encode.py,bounded
+6,E loses coverage when coordinates are wrong before export (S13),moderate,Reported,Abstract; Results,rec_S13_epoch_mislabelled_at_export_E_informative_ambiguity,reported
+7,Repaired redundancy has more coverage under MCAR,moderate,Reported,Abstract; Results; Conclusions,rec_field_mcar_*_mean_coverage,reported
+8,No PROJ/ISO 19157 tooling comparison,moderate,Stated as limitation,Limitations,—,bounded
+9,Single 16-station network,moderate,Stated as limitation,Limitations,data/processed/itrf_selected_sites.csv,bounded
+10,Novelty relative to ISO 19157 quality elements,major,Positioned in Related work,Related work,NOVELTY_GATE_ESI.md,editorial risk
+11,Group chain presented as new,minor,Labelled as known foundation,Sect. 3,—,resolved
+12,Decode-time nondeterminism,minor,Documented,ESM_1; RESULT_CHANGELOG.md,rec_cost_*_median_decode_ms,resolved

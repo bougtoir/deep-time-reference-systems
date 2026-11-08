@@ -1,0 +1,697 @@
+file,line,literal,class,classification_note
+configs/default.yml,1,20260924,A,configuration parameter
+configs/default.yml,3,24,A,configuration parameter
+configs/default.yml,4,250,A,configuration parameter
+configs/default.yml,5,4000,A,configuration parameter
+configs/default.yml,8,6378137.0,A,configuration parameter
+configs/default.yml,9,298.257223563,A,configuration parameter
+configs/default.yml,12,6378137.0,A,configuration parameter
+configs/default.yml,13,298.257222101,A,configuration parameter
+configs/default.yml,19,2000,A,configuration parameter
+configs/default.yml,20,1000,A,configuration parameter
+configs/default.yml,23,2015.0,A,configuration parameter
+configs/default.yml,24,2025.0,A,configuration parameter
+configs/default.yml,25,0.02,A,configuration parameter
+configs/default.yml,26,16,A,configuration parameter
+scripts/build_submission.py,25,1,B,numeric literal (constant)
+scripts/build_submission.py,103,3,B,numeric literal (constant)
+scripts/build_submission.py,104,1000,B,numeric literal (constant)
+scripts/build_submission.py,112,1024,B,numeric literal (constant) :: read iter
+scripts/build_submission.py,112,1024,B,numeric literal (constant) :: read iter
+scripts/build_submission.py,125,0,B,numeric literal (constant)
+scripts/build_submission.py,126,0.8,D,display/layout :: Inches
+scripts/build_submission.py,127,0.8,D,display/layout :: Inches
+scripts/build_submission.py,128,0.9,D,display/layout :: Inches
+scripts/build_submission.py,129,0.9,D,display/layout :: Inches
+scripts/build_submission.py,132,11,D,display/layout :: Pt
+scripts/build_submission.py,133,1.25,B,numeric literal (constant)
+scripts/build_submission.py,134,6,D,display/layout :: Pt
+scripts/build_submission.py,138,31,B,numeric literal (constant) :: RGBColor
+scripts/build_submission.py,138,65,B,numeric literal (constant) :: RGBColor
+scripts/build_submission.py,138,89,B,numeric literal (constant) :: RGBColor
+scripts/build_submission.py,139,18,D,display/layout :: Pt
+scripts/build_submission.py,140,14,D,display/layout :: Pt
+scripts/build_submission.py,141,12,D,display/layout :: Pt
+scripts/build_submission.py,145,11,D,display/layout :: Pt
+scripts/build_submission.py,147,6,D,display/layout :: Pt
+scripts/build_submission.py,148,6,D,display/layout :: Pt
+scripts/build_submission.py,149,0,B,numeric literal (constant)
+scripts/build_submission.py,188,10,D,display/layout :: Pt
+scripts/build_submission.py,189,6.25,D,display/layout :: Inches width add_picture
+scripts/build_submission.py,191,14,D,display/layout :: Pt
+scripts/build_submission.py,192,10,D,display/layout :: Pt
+scripts/build_submission.py,194,1,B,numeric literal (constant) :: add_run
+scripts/build_submission.py,204,14,D,display/layout :: Pt
+scripts/build_submission.py,207,1,B,numeric literal (constant) :: rows add_table
+scripts/build_submission.py,211,0,B,numeric literal (constant)
+scripts/build_submission.py,212,0,B,numeric literal (constant)
+scripts/build_submission.py,213,0,B,numeric literal (constant)
+scripts/build_submission.py,213,0,B,numeric literal (constant)
+scripts/build_submission.py,215,8,D,display/layout :: Pt
+scripts/build_submission.py,216,0,B,numeric literal (constant) :: set_repeat_table_header
+scripts/build_submission.py,222,0,B,numeric literal (constant)
+scripts/build_submission.py,223,8,D,display/layout :: Pt
+scripts/build_submission.py,230,0.6,D,display/layout :: Inches
+scripts/build_submission.py,231,0.6,D,display/layout :: Inches
+scripts/build_submission.py,232,0.6,D,display/layout :: Inches
+scripts/build_submission.py,233,0.6,D,display/layout :: Inches
+scripts/build_submission.py,240,0.8,D,display/layout :: Inches
+scripts/build_submission.py,241,0.8,D,display/layout :: Inches
+scripts/build_submission.py,242,0.9,D,display/layout :: Inches
+scripts/build_submission.py,243,0.9,D,display/layout :: Inches
+scripts/build_submission.py,261,0.25,D,display/layout :: Inches
+scripts/build_submission.py,262,0.25,D,display/layout :: Inches
+scripts/build_submission.py,263,4,D,display/layout :: Pt
+scripts/build_submission.py,629,1000000.0,B,numeric literal (constant) :: number
+scripts/build_submission.py,629,3,B,numeric literal (constant) :: number
+scripts/build_submission.py,813,150,B,numeric literal (constant)
+scripts/build_submission.py,813,250,B,numeric literal (constant)
+scripts/build_submission.py,815,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,826,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,829,1,B,numeric literal (constant) :: add_figure
+scripts/build_submission.py,831,2,B,numeric literal (constant) :: add_figure
+scripts/build_submission.py,833,3,B,numeric literal (constant) :: add_figure
+scripts/build_submission.py,835,4,B,numeric literal (constant) :: add_figure
+scripts/build_submission.py,837,5,B,numeric literal (constant) :: add_figure
+scripts/build_submission.py,842,1,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,850,2,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,858,3,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,866,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,867,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,871,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,875,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,877,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,879,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,881,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,886,2,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,888,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1017,1,B,numeric literal (constant) :: range
+scripts/build_submission.py,1017,6,B,numeric literal (constant) :: range
+scripts/build_submission.py,1018,1,B,numeric literal (constant) :: range
+scripts/build_submission.py,1018,4,B,numeric literal (constant) :: range
+scripts/build_submission.py,1019,0,B,numeric literal (constant) :: any
+scripts/build_submission.py,1030,0,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1034,1,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,1041,2,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,1048,3,B,numeric literal (constant) :: add_dataframe_table
+scripts/build_submission.py,1057,13.333,D,display/layout :: PptxInches
+scripts/build_submission.py,1058,7.5,D,display/layout :: PptxInches
+scripts/build_submission.py,1061,0,B,numeric literal (constant)
+scripts/build_submission.py,1062,1,B,numeric literal (constant)
+scripts/build_submission.py,1063,2,B,numeric literal (constant)
+scripts/build_submission.py,1064,3,B,numeric literal (constant)
+scripts/build_submission.py,1065,4,B,numeric literal (constant)
+scripts/build_submission.py,1078,6,B,numeric literal (constant) :: add_slide
+scripts/build_submission.py,1080,0.2,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1080,0.5,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1080,0.55,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1080,12.33,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1082,0,B,numeric literal (constant)
+scripts/build_submission.py,1085,22,D,display/layout :: PptxPt
+scripts/build_submission.py,1090,1.2,D,display/layout :: PptxInches add_picture
+scripts/build_submission.py,1091,0.85,D,display/layout :: PptxInches add_picture
+scripts/build_submission.py,1092,10.93,D,display/layout :: PptxInches width add_picture
+scripts/build_submission.py,1093,5.6,D,display/layout :: PptxInches height add_picture
+scripts/build_submission.py,1096,0.6,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1096,0.75,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1096,12.13,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1096,6.5,D,display/layout :: PptxInches add_textbox
+scripts/build_submission.py,1098,0,B,numeric literal (constant)
+scripts/build_submission.py,1101,11,D,display/layout :: PptxPt
+scripts/build_submission.py,1108,0,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1110,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1125,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1135,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1140,8,D,display/layout :: Pt
+scripts/build_submission.py,1141,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1158,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1168,6.25,D,display/layout :: Inches width add_picture
+scripts/build_submission.py,1177,6.25,D,display/layout :: Inches width add_picture
+scripts/build_submission.py,1184,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1192,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1202,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1205,1000000.0,B,numeric literal (constant) :: number add_paragraph
+scripts/build_submission.py,1205,3,B,numeric literal (constant) :: number add_paragraph
+scripts/build_submission.py,1267,1,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1286,0,B,numeric literal (constant) :: level add_heading
+scripts/build_submission.py,1326,1,B,numeric literal (constant) :: level add_heading
+scripts/docx_math.py,25,0,B,numeric literal (constant)
+scripts/docx_math.py,30,0,B,numeric literal (constant) :: insert
+scripts/docx_math.py,33,0,B,numeric literal (constant) :: insert
+scripts/docx_math.py,39,0,B,numeric literal (constant)
+scripts/docx_math.py,43,1,B,numeric literal (constant) :: group insert_omml
+scripts/run_pipeline.py,16,1,B,numeric literal (constant)
+scripts/run_pipeline.py,181,0.5,B,numeric literal (constant)
+scripts/run_pipeline.py,184,0.95,B,numeric literal (constant)
+scripts/run_pipeline.py,190,0,B,numeric literal (constant) :: append
+scripts/run_pipeline.py,195,0,B,numeric literal (constant) :: append
+scripts/run_pipeline.py,199,1,B,numeric literal (constant) :: append
+scripts/run_pipeline.py,265,0,B,numeric literal (constant) :: DataFrame concat
+scripts/run_pipeline.py,275,0.95,B,numeric literal (constant)
+scripts/run_pipeline.py,278,0,B,numeric literal (constant)
+scripts/run_pipeline.py,309,1,B,numeric literal (constant)
+scripts/run_pipeline.py,355,0.0,B,numeric literal (constant)
+scripts/run_pipeline.py,356,0.1,B,numeric literal (constant)
+scripts/run_pipeline.py,356,0.4,B,numeric literal (constant)
+scripts/run_pipeline.py,362,0,B,numeric literal (constant)
+scripts/verify_raw_data.py,6,1,B,numeric literal (constant)
+scripts/verify_raw_data.py,12,1024,B,numeric literal (constant) :: read iter
+scripts/verify_raw_data.py,12,1024,B,numeric literal (constant) :: read iter
+scripts/verify_submission.py,7,1,B,numeric literal (constant)
+scripts/verify_submission.py,15,1024,B,numeric literal (constant) :: read iter
+scripts/verify_submission.py,15,1024,B,numeric literal (constant) :: read iter
+src/dtrs/frames/transforms.py,16,1.0,B,numeric literal (constant) :: diag
+src/dtrs/frames/transforms.py,16,1.0,B,numeric literal (constant) :: diag
+src/dtrs/frames/transforms.py,16,1.0,B,numeric literal (constant) :: diag
+src/dtrs/geodesy/directions.py,42,1.0,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,43,2.0,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,45,1.0,B,numeric literal (constant) :: sqrt
+src/dtrs/geodesy/directions.py,45,2,B,numeric literal (constant) :: sqrt
+src/dtrs/geodesy/directions.py,51,1.0,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,58,1,B,numeric literal (constant) :: axis norm
+src/dtrs/geodesy/directions.py,59,2,B,numeric literal (constant) :: arcsin
+src/dtrs/geodesy/directions.py,60,0,B,numeric literal (constant) :: arctan2
+src/dtrs/geodesy/directions.py,60,1,B,numeric literal (constant) :: arctan2
+src/dtrs/geodesy/directions.py,74,1.0,B,numeric literal (constant) :: clip arcsin float
+src/dtrs/geodesy/directions.py,74,1.0,B,numeric literal (constant) :: clip arcsin float
+src/dtrs/geodesy/directions.py,81,1e-12,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,90,0,B,numeric literal (constant) :: sign AxialOrdering
+src/dtrs/geodesy/directions.py,100,1e-12,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,101,1e-12,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,102,1e-08,B,numeric literal (constant)
+src/dtrs/geodesy/directions.py,117,0,B,numeric literal (constant) :: sign SignedLongitudeRelation
+src/dtrs/geodesy/directions.py,123,1.0,B,numeric literal (constant) :: clip float
+src/dtrs/geodesy/directions.py,123,1.0,B,numeric literal (constant) :: clip float
+src/dtrs/geodesy/directions.py,128,0,B,numeric literal (constant) :: sign SignedLongitudeRelation
+src/dtrs/geodesy/directions.py,134,0,B,numeric literal (constant) :: sign SignedLongitudeRelation
+src/dtrs/geodesy/directions.py,140,0.0,B,numeric literal (constant) :: difference_radians SignedLongitudeRelation
+src/dtrs/geodesy/directions.py,141,0,B,numeric literal (constant) :: sign SignedLongitudeRelation
+src/dtrs/geodesy/directions.py,180,0.0,B,numeric literal (constant) :: array
+src/dtrs/geometry/core.py,6,1,B,numeric literal (constant) :: axis norm
+src/dtrs/geometry/core.py,9,3,B,numeric literal (constant)
+src/dtrs/geometry/core.py,10,0,B,numeric literal (constant)
+src/dtrs/geometry/core.py,12,0.5,B,numeric literal (constant)
+src/dtrs/geometry/core.py,12,2,B,numeric literal (constant)
+src/dtrs/geometry/core.py,14,1,B,numeric literal (constant)
+src/dtrs/geometry/core.py,15,0.0,B,numeric literal (constant) :: maximum
+src/dtrs/geometry/core.py,21,3,D,display/layout :: size normal
+src/dtrs/geometry/core.py,21,3,D,display/layout :: size normal
+src/dtrs/geometry/core.py,23,0,B,numeric literal (constant)
+src/dtrs/geometry/core.py,24,0,B,numeric literal (constant)
+src/dtrs/geometry/core.py,24,1,B,numeric literal (constant)
+src/dtrs/geometry/core.py,33,0,B,numeric literal (constant) :: axis mean
+src/dtrs/geometry/core.py,34,0,B,numeric literal (constant) :: axis mean
+src/dtrs/geometry/core.py,37,0,B,numeric literal (constant)
+src/dtrs/geometry/core.py,38,1,B,numeric literal (constant)
+src/dtrs/geometry/core.py,38,1,B,numeric literal (constant)
+src/dtrs/geometry/core.py,40,0,B,numeric literal (constant) :: axis mean
+src/dtrs/geometry/core.py,41,1,B,numeric literal (constant) :: axis sum mean sqrt float
+src/dtrs/geometry/core.py,41,2,B,numeric literal (constant) :: sum mean sqrt float
+src/dtrs/geometry/core.py,46,3,B,numeric literal (constant)
+src/dtrs/geometry/core.py,46,4,B,numeric literal (constant)
+src/dtrs/geometry/core.py,52,0,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,52,1,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,53,0,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,53,2,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,54,0,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,54,3,B,numeric literal (constant) :: stack det float
+src/dtrs/geometry/core.py,56,1,B,numeric literal (constant) :: axis stack det float
+src/dtrs/geometry/core.py,59,6.0,B,numeric literal (constant) :: float
+src/dtrs/metrics/core.py,9,1,B,numeric literal (constant) :: axis sum mean sqrt float
+src/dtrs/metrics/core.py,9,2,B,numeric literal (constant) :: sum mean sqrt float
+src/dtrs/plotting/figures.py,16,300,D,display/layout :: dpi savefig
+src/dtrs/plotting/figures.py,21,4.8,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,21,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,32,0.155,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,32,0.9,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,35,0.055,B,numeric literal (constant) :: Rectangle add_patch
+src/dtrs/plotting/figures.py,35,0.08,B,numeric literal (constant) :: Rectangle add_patch
+src/dtrs/plotting/figures.py,36,0.84,B,numeric literal (constant) :: Rectangle add_patch
+src/dtrs/plotting/figures.py,37,0.1,B,numeric literal (constant) :: Rectangle add_patch
+src/dtrs/plotting/figures.py,39,0.14,D,display/layout :: alpha Rectangle add_patch
+src/dtrs/plotting/figures.py,41,1.5,D,display/layout :: linewidth Rectangle add_patch
+src/dtrs/plotting/figures.py,44,0.012,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,44,0.11,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,44,10.5,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,45,0.018,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,45,0.89,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,45,9,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,46,1,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,49,0.095,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,49,0.5,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,50,0.06,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,50,0.5,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,55,12,D,display/layout :: fontsize set_title
+src/dtrs/plotting/figures.py,62,4.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,62,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,70,0.12,B,numeric literal (constant) :: linspace
+src/dtrs/plotting/figures.py,70,0.88,B,numeric literal (constant) :: linspace
+src/dtrs/plotting/figures.py,76,0.57,B,numeric literal (constant) :: Circle add_patch
+src/dtrs/plotting/figures.py,77,0.09,B,numeric literal (constant) :: Circle add_patch
+src/dtrs/plotting/figures.py,80,0.17,D,display/layout :: alpha Circle add_patch
+src/dtrs/plotting/figures.py,81,2,D,display/layout :: linewidth Circle add_patch
+src/dtrs/plotting/figures.py,86,0.57,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,90,14,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,95,0.31,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,99,9,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,101,1,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,104,0.1,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,104,0.57,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,104,1,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,105,0.1,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,105,0.57,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,106,1.5,B,numeric literal (constant) :: arrowprops annotate
+src/dtrs/plotting/figures.py,109,0.5,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,110,0.1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,113,9,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,119,12,D,display/layout :: fontsize set_title
+src/dtrs/plotting/figures.py,125,0,B,numeric literal (constant) :: linspace
+src/dtrs/plotting/figures.py,125,2,B,numeric literal (constant) :: linspace
+src/dtrs/plotting/figures.py,125,500,B,numeric literal (constant) :: linspace
+src/dtrs/plotting/figures.py,126,1,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,126,2,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,126,3.5,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,126,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,129,0,B,numeric literal (constant) :: axhline
+src/dtrs/plotting/figures.py,129,0.8,D,display/layout :: linewidth axhline
+src/dtrs/plotting/figures.py,130,0,B,numeric literal (constant) :: axvline
+src/dtrs/plotting/figures.py,130,0.8,D,display/layout :: linewidth axvline
+src/dtrs/plotting/figures.py,131,0.25,B,numeric literal (constant) :: array
+src/dtrs/plotting/figures.py,131,0.45,B,numeric literal (constant) :: array
+src/dtrs/plotting/figures.py,131,0.72,B,numeric literal (constant) :: array
+src/dtrs/plotting/figures.py,131,0.72,B,numeric literal (constant) :: array
+src/dtrs/plotting/figures.py,133,0,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,133,1,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,134,0,B,numeric literal (constant) :: scatter
+src/dtrs/plotting/figures.py,134,1,B,numeric literal (constant) :: scatter
+src/dtrs/plotting/figures.py,134,50,B,numeric literal (constant) :: s scatter
+src/dtrs/plotting/figures.py,135,0,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,135,0,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,135,0,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,135,0.1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,135,1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,136,0,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,136,0.14,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,136,1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,136,1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,136,1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,139,0,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,139,1,B,numeric literal (constant) :: xy annotate
+src/dtrs/plotting/figures.py,140,0.15,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,140,0.72,B,numeric literal (constant) :: xytext annotate
+src/dtrs/plotting/figures.py,145,1.15,B,numeric literal (constant) :: set_xlim
+src/dtrs/plotting/figures.py,145,1.15,B,numeric literal (constant) :: set_xlim
+src/dtrs/plotting/figures.py,146,1.15,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,146,1.15,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,150,10,D,display/layout :: fontsize set_title
+src/dtrs/plotting/figures.py,157,0.5,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,158,0.01,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,161,8,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,176,4.0,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,176,6.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,178,0,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,178,1.05,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,183,2,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,184,0.025,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,187,9,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,193,1,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,193,2,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,193,3.7,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,193,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,195,0,B,numeric literal (constant) :: errorbar
+src/dtrs/plotting/figures.py,205,2,D,display/layout :: capsize errorbar
+src/dtrs/plotting/figures.py,208,1,B,numeric literal (constant) :: errorbar
+src/dtrs/plotting/figures.py,218,2,D,display/layout :: capsize errorbar
+src/dtrs/plotting/figures.py,221,0,B,numeric literal (constant) :: set_title
+src/dtrs/plotting/figures.py,222,1,B,numeric literal (constant) :: set_title
+src/dtrs/plotting/figures.py,225,0.45,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,225,1.02,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,226,0.25,D,display/layout :: alpha grid
+src/dtrs/plotting/figures.py,227,0,B,numeric literal (constant) :: set_ylabel
+src/dtrs/plotting/figures.py,228,1,B,numeric literal (constant) :: legend
+src/dtrs/plotting/figures.py,228,7,D,display/layout :: fontsize legend
+src/dtrs/plotting/figures.py,228,8,D,display/layout :: title_fontsize legend
+src/dtrs/plotting/figures.py,239,4.1,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,239,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,240,0,B,numeric literal (constant) :: vmin imshow
+src/dtrs/plotting/figures.py,240,1,B,numeric literal (constant) :: vmax imshow
+src/dtrs/plotting/figures.py,248,0,B,numeric literal (constant) :: range
+src/dtrs/plotting/figures.py,249,1,B,numeric literal (constant) :: range
+src/dtrs/plotting/figures.py,257,7,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,258,0.35,B,numeric literal (constant) :: color text
+src/dtrs/plotting/figures.py,258,0.8,B,numeric literal (constant) :: color text
+src/dtrs/plotting/figures.py,269,1,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,269,2,B,numeric literal (constant) :: subplots
+src/dtrs/plotting/figures.py,269,3.8,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,269,7.2,D,display/layout :: figsize subplots
+src/dtrs/plotting/figures.py,274,1,B,numeric literal (constant) :: axis norm
+src/dtrs/plotting/figures.py,276,1000,B,numeric literal (constant)
+src/dtrs/plotting/figures.py,283,45,B,numeric literal (constant) :: s scatter
+src/dtrs/plotting/figures.py,285,0.4,D,display/layout :: linewidth scatter
+src/dtrs/plotting/figures.py,289,2,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,290,1,B,numeric literal (constant) :: text
+src/dtrs/plotting/figures.py,292,6,D,display/layout :: fontsize text
+src/dtrs/plotting/figures.py,294,180,B,numeric literal (constant) :: set_xlim
+src/dtrs/plotting/figures.py,294,180,B,numeric literal (constant) :: set_xlim
+src/dtrs/plotting/figures.py,295,90,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,295,90,B,numeric literal (constant) :: set_ylim
+src/dtrs/plotting/figures.py,298,10,D,display/layout :: fontsize set_title
+src/dtrs/plotting/figures.py,299,0.25,D,display/layout :: alpha grid
+src/dtrs/plotting/figures.py,308,1,B,numeric literal (constant) :: axis norm
+src/dtrs/plotting/figures.py,312,1,B,numeric literal (constant) :: axis norm
+src/dtrs/plotting/figures.py,314,1,B,numeric literal (constant) :: triu_indices
+src/dtrs/plotting/figures.py,318,0.8,D,display/layout :: alpha hist
+src/dtrs/plotting/figures.py,318,12,B,numeric literal (constant) :: bins hist
+src/dtrs/plotting/figures.py,322,2,D,display/layout :: linewidth axvline
+src/dtrs/plotting/figures.py,331,10,D,display/layout :: fontsize set_title
+src/dtrs/plotting/figures.py,333,8,D,display/layout :: fontsize legend
+src/dtrs/simulations/benchmark.py,11,1.959963984540054,B,numeric literal (constant)
+src/dtrs/simulations/benchmark.py,12,1.0,B,numeric literal (constant)
+src/dtrs/simulations/benchmark.py,12,2,B,numeric literal (constant)
+src/dtrs/simulations/benchmark.py,13,2,B,numeric literal (constant)
+src/dtrs/simulations/benchmark.py,13,2,B,numeric literal (constant)
+src/dtrs/simulations/benchmark.py,17,1.0,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/benchmark.py,18,2,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/benchmark.py,18,2,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/benchmark.py,18,4,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/benchmark.py,31,0.95,B,numeric literal (constant) :: uniform arcsin
+src/dtrs/simulations/benchmark.py,31,0.95,B,numeric literal (constant) :: uniform arcsin
+src/dtrs/simulations/benchmark.py,46,0.95,B,numeric literal (constant) :: uniform arcsin
+src/dtrs/simulations/benchmark.py,46,0.95,B,numeric literal (constant) :: uniform arcsin
+src/dtrs/simulations/benchmark.py,62,1,B,numeric literal (constant) :: axis norm
+src/dtrs/simulations/benchmark.py,67,1,B,numeric literal (constant) :: triu_indices
+src/dtrs/simulations/benchmark.py,68,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,68,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,68,1.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,107,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,107,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,114,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,114,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,144,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,144,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,144,1.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/benchmark.py,171,0,B,numeric literal (constant) :: axis mean append
+src/dtrs/simulations/benchmark.py,172,0,B,numeric literal (constant) :: axis mean append
+src/dtrs/simulations/benchmark.py,199,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,203,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,207,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,211,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/benchmark.py,216,20.0,B,numeric literal (constant) :: array deg2rad ellipsoid_surface
+src/dtrs/simulations/benchmark.py,216,20.4,B,numeric literal (constant) :: array deg2rad ellipsoid_surface
+src/dtrs/simulations/benchmark.py,217,10.0,B,numeric literal (constant) :: array deg2rad ellipsoid_surface
+src/dtrs/simulations/benchmark.py,217,10.4,B,numeric literal (constant) :: array deg2rad ellipsoid_surface
+src/dtrs/simulations/benchmark.py,225,1,D,display/layout :: corruption_experiment
+src/dtrs/simulations/benchmark.py,226,0,D,display/layout :: corruption_experiment
+src/dtrs/simulations/itrf.py,19,2,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,23,0,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,24,1,B,numeric literal (constant) :: join
+src/dtrs/simulations/itrf.py,25,1,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,26,2,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,27,3,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,28,4,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,29,5,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,30,6,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,31,7,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,35,0,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,38,1,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,39,2,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,40,3,B,numeric literal (constant) :: float
+src/dtrs/simulations/itrf.py,52,1,B,numeric literal (constant) :: axis max copy
+src/dtrs/simulations/itrf.py,60,1,B,numeric literal (constant) :: axis max
+src/dtrs/simulations/itrf.py,63,1,B,numeric literal (constant) :: linspace bins cut
+src/dtrs/simulations/itrf.py,63,180.0,B,numeric literal (constant) :: linspace bins cut
+src/dtrs/simulations/itrf.py,63,180.0,B,numeric literal (constant) :: linspace bins cut
+src/dtrs/simulations/itrf.py,71,1,B,numeric literal (constant) :: head head
+src/dtrs/simulations/itrf.py,104,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/itrf.py,104,0.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/itrf.py,104,1.0,B,numeric literal (constant) :: array
+src/dtrs/simulations/itrf.py,135,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/itrf.py,135,0,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/itrf.py,140,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/itrf.py,140,1,B,numeric literal (constant) :: mean DataFrame
+src/dtrs/simulations/itrf.py,150,1,B,numeric literal (constant) :: triu_indices abs median DataFrame
+src/dtrs/simulations/itrf.py,167,0,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,168,1,B,numeric literal (constant)
+src/dtrs/simulations/itrf.py,169,2,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,6,3,B,numeric literal (constant) :: zeros
+src/dtrs/simulations/rigidity.py,9,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,9,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,9,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,10,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,10,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,10,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,16,0,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,17,0,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,19,0,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,42,1.959963984540054,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,43,1.0,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,43,2,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,44,2,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,44,2,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,48,1.0,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/rigidity.py,49,2,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/rigidity.py,49,2,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/rigidity.py,49,4,B,numeric literal (constant) :: sqrt
+src/dtrs/simulations/rigidity.py,58,1000,B,numeric literal (constant) :: get default_rng
+src/dtrs/simulations/rigidity.py,61,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,61,6,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,66,3,D,display/layout :: size normal
+src/dtrs/simulations/rigidity.py,71,3,B,numeric literal (constant)
+src/dtrs/simulations/rigidity.py,71,6,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,14,3,D,display/layout :: size normal
+src/dtrs/uncertainty/monte_carlo.py,18,0.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,18,0.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,18,1.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,20,0.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,20,0.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,20,1.0,B,numeric literal (constant) :: array cross
+src/dtrs/uncertainty/monte_carlo.py,37,0,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,38,0,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,49,0,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,49,0,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,50,1,B,numeric literal (constant)
+src/dtrs/uncertainty/monte_carlo.py,50,1,B,numeric literal (constant)
+tests/test_geodesy.py,16,140.0,E,test fixture
+tests/test_geodesy.py,16,35.0,E,test fixture
+tests/test_geodesy.py,17,1e-12,E,test fixture
+tests/test_geodesy.py,17,3,E,test fixture
+tests/test_geodesy.py,18,0,E,test fixture
+tests/test_geodesy.py,22,12,E,test fixture
+tests/test_geodesy.py,24,20.0,E,test fixture
+tests/test_geodesy.py,24,35.0,E,test fixture
+tests/test_geodesy.py,25,15.0,E,test fixture
+tests/test_geodesy.py,25,70.0,E,test fixture
+tests/test_geodesy.py,26,6378137.0,E,test fixture
+tests/test_geodesy.py,27,298.257223563,E,test fixture
+tests/test_geodesy.py,29,0.0,E,test fixture
+tests/test_geodesy.py,29,0.0,E,test fixture
+tests/test_geodesy.py,29,1.0,E,test fixture
+tests/test_geodesy.py,30,0,E,test fixture
+tests/test_geodesy.py,30,1,E,test fixture
+tests/test_geodesy.py,33,1,E,test fixture
+tests/test_geodesy.py,34,0,E,test fixture
+tests/test_geodesy.py,42,20.0,E,test fixture
+tests/test_geodesy.py,42,35.0,E,test fixture
+tests/test_geodesy.py,43,15.0,E,test fixture
+tests/test_geodesy.py,43,70.0,E,test fixture
+tests/test_geodesy.py,44,6378137.0,E,test fixture
+tests/test_geodesy.py,45,298.257223563,E,test fixture
+tests/test_geodesy.py,47,0.0,E,test fixture
+tests/test_geodesy.py,47,0.0,E,test fixture
+tests/test_geodesy.py,47,1.0,E,test fixture
+tests/test_geodesy.py,48,0,E,test fixture
+tests/test_geodesy.py,48,1,E,test fixture
+tests/test_geodesy.py,51,1,E,test fixture
+tests/test_geodesy.py,52,0,E,test fixture
+tests/test_geodesy.py,55,0,E,test fixture
+tests/test_geodesy.py,55,0,E,test fixture
+tests/test_geodesy.py,56,1,E,test fixture
+tests/test_geodesy.py,56,1,E,test fixture
+tests/test_geodesy.py,60,0.0,E,test fixture
+tests/test_geodesy.py,60,0.0,E,test fixture
+tests/test_geodesy.py,60,1.0,E,test fixture
+tests/test_geodesy.py,61,0.0,E,test fixture
+tests/test_geodesy.py,61,0.0,E,test fixture
+tests/test_geodesy.py,61,1.0,E,test fixture
+tests/test_geodesy.py,62,0.0,E,test fixture
+tests/test_geodesy.py,62,0.0,E,test fixture
+tests/test_geodesy.py,62,1.0,E,test fixture
+tests/test_geodesy.py,63,0,E,test fixture
+tests/test_geodesy.py,67,0.0,E,test fixture
+tests/test_geodesy.py,67,0.0,E,test fixture
+tests/test_geodesy.py,67,1.0,E,test fixture
+tests/test_geodesy.py,68,0.0,E,test fixture
+tests/test_geodesy.py,68,0.0,E,test fixture
+tests/test_geodesy.py,68,1.0,E,test fixture
+tests/test_geodesy.py,69,0.0,E,test fixture
+tests/test_geodesy.py,69,0.0,E,test fixture
+tests/test_geodesy.py,69,1.0,E,test fixture
+tests/test_geodesy.py,70,0,E,test fixture
+tests/test_geodesy.py,70,1,E,test fixture
+tests/test_geodesy.py,71,0,E,test fixture
+tests/test_geodesy.py,71,1,E,test fixture
+tests/test_geodesy.py,75,0.0,E,test fixture
+tests/test_geodesy.py,75,0.0,E,test fixture
+tests/test_geodesy.py,75,1.0,E,test fixture
+tests/test_geodesy.py,76,0.0,E,test fixture
+tests/test_geodesy.py,76,0.0,E,test fixture
+tests/test_geodesy.py,76,1.0,E,test fixture
+tests/test_geodesy.py,80,0.0,E,test fixture
+tests/test_geodesy.py,80,5e-09,E,test fixture
+tests/test_geodesy.py,80,5e-09,E,test fixture
+tests/test_geodesy.py,90,0.0,E,test fixture
+tests/test_geodesy.py,90,0.0,E,test fixture
+tests/test_geodesy.py,90,1.0,E,test fixture
+tests/test_geodesy.py,91,0.0,E,test fixture
+tests/test_geodesy.py,91,0.2,E,test fixture
+tests/test_geodesy.py,91,1.0,E,test fixture
+tests/test_geodesy.py,92,0.0,E,test fixture
+tests/test_geodesy.py,92,0.1,E,test fixture
+tests/test_geodesy.py,92,2.0,E,test fixture
+tests/test_geodesy.py,96,0,E,test fixture
+tests/test_geodesy.py,100,0.0,E,test fixture
+tests/test_geodesy.py,100,0.0,E,test fixture
+tests/test_geodesy.py,100,1.0,E,test fixture
+tests/test_geodesy.py,101,179.0,E,test fixture
+tests/test_geodesy.py,102,179.0,E,test fixture
+tests/test_geodesy.py,103,0.0,E,test fixture
+tests/test_geodesy.py,104,0.0,E,test fixture
+tests/test_geodesy.py,106,2.0,E,test fixture
+tests/test_geodesy.py,107,1,E,test fixture
+tests/test_geodesy.py,111,0.0,E,test fixture
+tests/test_geodesy.py,111,0.0,E,test fixture
+tests/test_geodesy.py,111,1.0,E,test fixture
+tests/test_geodesy.py,115,0.0,E,test fixture
+tests/test_geodesy.py,117,0.0,E,test fixture
+tests/test_geodesy.py,118,120.0,E,test fixture
+tests/test_geodesy.py,119,120.0,E,test fixture
+tests/test_geodesy.py,120,1,E,test fixture
+tests/test_geodesy.py,121,1,E,test fixture
+tests/test_geodesy.py,122,1,E,test fixture
+tests/test_geodesy.py,126,0.0,E,test fixture
+tests/test_geodesy.py,126,0.0,E,test fixture
+tests/test_geodesy.py,126,1.0,E,test fixture
+tests/test_geodesy.py,127,0.0,E,test fixture
+tests/test_geodesy.py,127,1.0,E,test fixture
+tests/test_geodesy.py,127,1.0,E,test fixture
+tests/test_geodesy.py,128,0.0,E,test fixture
+tests/test_geodesy.py,128,1.0,E,test fixture
+tests/test_geodesy.py,128,1.0,E,test fixture
+tests/test_geodesy.py,131,0,E,test fixture
+tests/test_geometry.py,13,4,E,test fixture
+tests/test_geometry.py,14,12,E,test fixture
+tests/test_geometry.py,14,3,E,test fixture
+tests/test_geometry.py,16,2.0,E,test fixture
+tests/test_geometry.py,16,4.0,E,test fixture
+tests/test_geometry.py,16,8.0,E,test fixture
+tests/test_geometry.py,20,1e-12,E,test fixture
+tests/test_geometry.py,25,8,E,test fixture
+tests/test_geometry.py,26,10,E,test fixture
+tests/test_geometry.py,26,3,E,test fixture
+tests/test_geometry.py,29,1e-10,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,0.0,E,test fixture
+tests/test_geometry.py,34,1.0,E,test fixture
+tests/test_geometry.py,34,1.0,E,test fixture
+tests/test_geometry.py,34,1.0,E,test fixture
+tests/test_geometry.py,36,1.0,E,test fixture
+tests/test_geometry.py,36,1.0,E,test fixture
+tests/test_geometry.py,36,1.0,E,test fixture
+tests/test_itrf.py,8,1,E,test fixture
+tests/test_itrf.py,13,50,E,test fixture
+tests/test_itrf.py,24,0.02,E,test fixture
+tests/test_itrf.py,24,12,E,test fixture
+tests/test_itrf.py,25,0.02,E,test fixture
+tests/test_itrf.py,25,12,E,test fixture
+tests/test_itrf.py,27,12,E,test fixture
+tests/test_itrf.py,28,250,E,test fixture
+tests/test_itrf.py,38,2015.0,E,test fixture
+tests/test_itrf.py,39,2035.0,E,test fixture
+tests/test_itrf.py,40,0.02,E,test fixture
+tests/test_itrf.py,41,10,E,test fixture
+tests/test_itrf.py,46,2035.0,E,test fixture
+tests/test_qc.py,11,1,E,test fixture
+tests/test_qc.py,34,0,E,test fixture
+tests/test_qc.py,65,0,E,test fixture
+tests/test_qc.py,75,1,E,test fixture
+tests/test_qc.py,76,24,E,test fixture
+tests/test_qc.py,78,0,E,test fixture
+tests/test_qc.py,78,0,E,test fixture
+tests/test_qc.py,80,1,E,test fixture
+tests/test_qc.py,94,0,E,test fixture
+tests/test_qc.py,95,1,E,test fixture
+tests/test_qc.py,137,40,E,test fixture
+tests/test_qc.py,166,0,E,test fixture
+tests/test_qc.py,172,20,E,test fixture
+tests/test_reproducibility.py,13,11,E,test fixture
+tests/test_reproducibility.py,15,12,E,test fixture
+tests/test_reproducibility.py,16,10,E,test fixture
+tests/test_reproducibility.py,17,100,E,test fixture
+tests/test_reproducibility.py,19,6378137.0,E,test fixture
+tests/test_reproducibility.py,20,298.257223563,E,test fixture
+tests/test_reproducibility.py,23,6378137.0,E,test fixture
+tests/test_reproducibility.py,24,298.257222101,E,test fixture
+tests/test_reproducibility.py,26,0.0,E,test fixture
+tests/test_reproducibility.py,26,0.1,E,test fixture
+tests/test_reproducibility.py,27,0.0,E,test fixture
+tests/test_reproducibility.py,27,0.1,E,test fixture
+tests/test_reproducibility.py,53,0,E,test fixture
+tests/test_reproducibility.py,54,1.0,E,test fixture
+tests/test_reproducibility.py,55,1.0,E,test fixture
+tests/test_reproducibility.py,64,0.2,E,test fixture
+tests/test_reproducibility.py,65,0.05,E,test fixture
+tests/test_reproducibility.py,69,1,E,test fixture
+tests/test_reproducibility.py,75,0.0,E,test fixture
+tests/test_reproducibility.py,75,0.0,E,test fixture
+tests/test_reproducibility.py,75,2.0,E,test fixture
+tests/test_reproducibility.py,76,0.2,E,test fixture
+tests/test_reproducibility.py,76,5,E,test fixture
+tests/test_reproducibility.py,81,0.6,E,test fixture
+tests/test_reproducibility.py,81,4000,E,test fixture
+tests/test_reproducibility.py,82,0.6,E,test fixture
+tests/test_reproducibility.py,83,0.04,E,test fixture
+tests/test_rigidity.py,14,17,E,test fixture
+tests/test_rigidity.py,14,3,E,test fixture
+tests/test_rigidity.py,14,8,E,test fixture
+tests/test_rigidity.py,15,3,E,test fixture
+tests/test_rigidity.py,15,6,E,test fixture
+tests/test_rigidity.py,19,19,E,test fixture
+tests/test_rigidity.py,19,3,E,test fixture
+tests/test_rigidity.py,19,8,E,test fixture
+tests/test_rigidity.py,20,1,E,test fixture
+tests/test_rigidity.py,20,1,E,test fixture
+tests/test_rigidity.py,21,3,E,test fixture
+tests/test_rigidity.py,21,6,E,test fixture
+tests/test_rigidity.py,26,23,E,test fixture
+tests/test_rigidity.py,28,6,E,test fixture
+tests/test_rigidity.py,29,0.2,E,test fixture
+tests/test_rigidity.py,29,1.0,E,test fixture
+tests/test_rigidity.py,30,10,E,test fixture
+tests/test_rigidity.py,31,50,E,test fixture
+tests/test_rigidity.py,40,0,E,test fixture
+tests/test_rigidity.py,40,1.0,E,test fixture
+tests/test_rigidity.py,41,1.0,E,test fixture
+tests/test_rigidity.py,42,0.0,E,test fixture
+tests/test_rigidity.py,47,1,E,test fixture
+tests/test_rigidity.py,49,1000,E,test fixture
+tests/test_submission.py,9,1,E,test fixture
+tests/test_submission.py,22,5,E,test fixture
+tests/test_submission.py,23,3,E,test fixture
+tests/test_submission.py,24,1,E,test fixture
+tests/test_submission.py,24,6,E,test fixture
+tests/test_submission.py,26,1,E,test fixture
+tests/test_submission.py,26,4,E,test fixture
+tests/test_submission.py,29,1,E,test fixture
+tests/test_submission.py,33,150,E,test fixture
+tests/test_submission.py,33,250,E,test fixture
+tests/test_submission.py,39,6,E,test fixture
+tests/test_submission.py,44,0,E,test fixture
+tests/test_submission.py,46,20,E,test fixture
+tests/test_submission.py,47,64,E,test fixture

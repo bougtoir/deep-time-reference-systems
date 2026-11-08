@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/journal/*.html
+data/raw/literature/*.pdf

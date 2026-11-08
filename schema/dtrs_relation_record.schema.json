@@ -1,0 +1,388 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bougtoir/deep-time-reference-systems/schema/1.1.0",
+  "title": "Recoverability-aware record of time-indexed spatial relations",
+  "type": "object",
+  "required": [
+    "schema",
+    "schema_version",
+    "record_id",
+    "entities"
+  ],
+  "properties": {
+    "schema": {
+      "type": "string",
+      "enum": [
+        "dtrs-relation-record"
+      ]
+    },
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "1.1.0"
+      ]
+    },
+    "record_id": {
+      "type": "string"
+    },
+    "representation": {
+      "type": "string"
+    },
+    "entities": {
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "label": {
+            "type": "string"
+          },
+          "identifier_scheme": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "coordinates": {
+      "type": "object",
+      "required": [
+        "values"
+      ],
+      "properties": {
+        "values": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 3,
+            "maxItems": 3
+          }
+        },
+        "velocities": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 3,
+            "maxItems": 3
+          }
+        },
+        "standard_uncertainty_m": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 3,
+            "maxItems": 3
+          }
+        }
+      }
+    },
+    "reference_system": {
+      "type": "object",
+      "properties": {
+        "crs_id": {
+          "type": "string"
+        },
+        "frame": {
+          "type": "string"
+        },
+        "axes": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 3,
+          "items": {
+            "type": "string",
+            "enum": [
+              "geocentricX",
+              "geocentricY",
+              "geocentricZ",
+              "-geocentricX",
+              "-geocentricY",
+              "-geocentricZ"
+            ]
+          }
+        },
+        "unit": {
+          "type": "string",
+          "enum": [
+            "metre"
+          ]
+        },
+        "frame_reference_epoch": {
+          "type": "number"
+        },
+        "coordinate_epoch": {
+          "type": "number"
+        },
+        "transformation_to_frame": {
+          "type": "object",
+          "required": [
+            "method",
+            "matrix"
+          ],
+          "properties": {
+            "method": {
+              "type": "string"
+            },
+            "matrix": {
+              "type": "array",
+              "items": {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 3,
+                "maxItems": 3
+              },
+              "minItems": 3,
+              "maxItems": 3
+            }
+          }
+        }
+      }
+    },
+    "relations": {
+      "type": "object",
+      "required": [
+        "kind",
+        "unit",
+        "epoch",
+        "edges"
+      ],
+      "properties": {
+        "kind": {
+          "type": "string",
+          "enum": [
+            "euclidean_distance"
+          ]
+        },
+        "unit": {
+          "type": "string",
+          "enum": [
+            "metre"
+          ]
+        },
+        "epoch": {
+          "type": "number"
+        },
+        "edges": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3
+          }
+        },
+        "rates_m_per_year": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3
+          }
+        }
+      }
+    },
+    "anchors": {
+      "type": "object",
+      "properties": {
+        "origin": {
+          "type": "object",
+          "required": [
+            "observable",
+            "values",
+            "evidence"
+          ],
+          "properties": {
+            "observable": {
+              "type": "string",
+              "enum": [
+                "geocentric_distance_m"
+              ]
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "type": "number"
+              }
+            },
+            "evidence": {
+              "type": "string",
+              "enum": [
+                "independent_physical",
+                "digital_copy",
+                "conventional_definition"
+              ]
+            }
+          }
+        },
+        "axis": {
+          "type": "object",
+          "required": [
+            "observable",
+            "values",
+            "evidence"
+          ],
+          "properties": {
+            "observable": {
+              "type": "string",
+              "enum": [
+                "geocentric_latitude_radians"
+              ]
+            },
+            "values": {
+              "type": "array",
+              "items": {
+                "type": "number"
+              }
+            },
+            "standard_uncertainty_radians": {
+              "type": "number"
+            },
+            "evidence": {
+              "type": "string",
+              "enum": [
+                "independent_physical",
+                "digital_copy",
+                "conventional_definition"
+              ]
+            }
+          }
+        },
+        "chirality": {
+          "type": "object",
+          "required": [
+            "triple",
+            "sign",
+            "evidence"
+          ],
+          "properties": {
+            "triple": {
+              "type": "array",
+              "minItems": 3,
+              "maxItems": 3
+            },
+            "sign": {
+              "type": "integer",
+              "enum": [
+                -1,
+                1
+              ]
+            },
+            "evidence": {
+              "type": "string",
+              "enum": [
+                "independent_physical",
+                "digital_copy",
+                "conventional_definition"
+              ]
+            }
+          }
+        },
+        "meridian": {
+          "type": "object",
+          "required": [
+            "entity",
+            "longitude_degrees",
+            "evidence"
+          ],
+          "properties": {
+            "entity": {
+              "type": "integer"
+            },
+            "longitude_degrees": {
+              "type": "number"
+            },
+            "evidence": {
+              "type": "string",
+              "enum": [
+                "independent_physical",
+                "digital_copy",
+                "conventional_definition"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "uncertainty": {
+      "type": "object",
+      "properties": {
+        "distance_standard_uncertainty_m": {
+          "type": "number"
+        },
+        "coverage_factor": {
+          "type": "number"
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "properties": {
+        "sources": {
+          "type": "array"
+        },
+        "software": {
+          "type": "string"
+        },
+        "coordinates_sha256": {
+          "type": "string"
+        },
+        "relations_sha256": {
+          "type": "string"
+        }
+      }
+    },
+    "declared_recoverability": {
+      "type": "object",
+      "properties": {
+        "residual_group": {
+          "type": "string",
+          "enum": [
+            "O(3)",
+            "O(2)",
+            "SO(2)",
+            "I",
+            "undetermined"
+          ]
+        },
+        "tasks": {
+          "type": "object"
+        }
+      }
+    },
+    "fixity": {
+      "type": "object",
+      "properties": {
+        "algorithm": {
+          "type": "string"
+        },
+        "scope": {
+          "type": "string"
+        },
+        "coordinate_values_sha256": {
+          "type": "string"
+        }
+      }
+    },
+    "redundant_reference_system": {
+      "type": "object"
+    },
+    "digital_chirality": {
+      "type": "object"
+    }
+  }
+}

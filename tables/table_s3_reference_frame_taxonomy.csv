@@ -1,0 +1,9 @@
+frame,physical_anchor,preserving_transformations,temporal_durability,principal_failure_mode,north_south_support,east_west_support
+Terrestrial reference frame,realized station coordinates and velocities,time-dependent Euclidean/Helmert mapping,high for modern epochs,network/model discontinuity,yes,yes
+Celestial reference frame,extragalactic source directions,celestial rotations,high,source structure and realization change,with Earth orientation,with Earth orientation
+Spin-axis frame,directed angular-momentum/rotation axis,rotation about axis and axial reflection,medium,polar motion and true polar wander,yes,only with physical chirality
+Plate-fixed frame,rigid plate model,plate Euler rotation,medium,deformation and plate reorganization,model-dependent,model-dependent
+Paleomagnetic frame,remanent field direction under field assumptions,axial rotations,geological,remagnetization and GAD violations,paleolatitude,not from paleomagnetism alone
+Hotspot/mantle frame,hotspot tracks or mantle structures,model-specific plate rotations,geological,mantle motion and sparse anchors,model-dependent,model-dependent
+Relative tectonic network,distances/rotations among blocks,network gauge transformations,geological,topology loss and deformation,only with axial anchor,only with orientation anchor
+Hybrid redundant frame,"independent geometric, axial, and physical anchors",intersection of preserved symmetries,highest conditional robustness,correlated anchor failure,yes,yes

@@ -1,0 +1,12 @@
+Field,Content,Role in recovery
+entities,"Identifier, label, namespace; collisions are reported",Entity identity (T6)
+coordinates,"Values, optional velocities, unit",Original representation; precise answers when metadata are intact
+reference_system,"CRS id, axes, unit, frame, coordinate and frame epochs, transformation",Interprets coordinates (ISO 19111 / PROJJSON role)
+relations,"Labelled chord distances, rates, epoch, completeness","Frame-free metric evidence (T1, T5); rigidity check"
+anchors.origin,Geocentric radii with evidence type,Removes translation; enables axial projection
+anchors.axis,Axial latitudes with standard uncertainty,Reduces O(3) to O(2); N/S ordering (T2)
+anchors.chirality,"Oriented entity triple, sign, evidence type",Reduces O(2) to SO(2) only if independent physical evidence (T3)
+anchors.meridian,Entity and longitude of the directed meridian,Reduces SO(2) to identity (T4)
+uncertainty,"Coordinate and distance standard uncertainty, coverage factor",Consistency tolerances; probabilistic states
+provenance,"Source ids and SHA-256, software version, coordinate and relation hashes",Detects stale or edited components
+declared_recoverability,Residual group and per-task state computed at export,Machine-readable ambiguity class; stale declarations rejected

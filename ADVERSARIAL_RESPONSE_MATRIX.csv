@@ -1,0 +1,24 @@
+id,reviewer,criticism,classification,action,location,status
+R1.1,ESI editor,Zero false certainty presented as discovery although built into decoder,valid_material,Added stress scenarios X1-X5; conditional-safety statements,abstract; Methods Scenarios; Results Corrupted independent evidence; Discussion; Limitations; Conclusions; ESM S9 Table S5,implemented
+R1.2,ESI editor,Informatics vs geodesy fit,already_addressed,None,Sections 1-4,closed
+R1.3,ESI editor,Source of independent anchors in practice,valid_minor,Limitations sentence retained; X4 cost reported,Limitations; Results,implemented
+R1.4,ESI editor,Incremental relative to ISO 19157,valid_material,Novelty claim limited to decoder semantics and evidence typing,NOVELTY_AUDIT_FINAL.md; Related work; Discussion,residual risk
+R2.1,Standards specialist,B is a strawman,already_addressed,Documented B capabilities,BASELINE_FAIRNESS_AUDIT.md,closed
+R2.2,Standards specialist,ISO 19157 + PROV-O baseline would match,valid_minor,Argument documented; mapping not implemented stated,BASELINE_FAIRNESS_AUDIT.md; Discussion,implemented
+R2.3,Standards specialist,PROJJSON already has epochs,already_addressed,Cited; B emulates,Related work,closed
+R2.4,Standards specialist,Checksums would catch S13,invalid,S10 vs S13 shows checksum issued after error verifies,Results,closed
+R3.1,Statistician,95% upper bound rounded down,valid_material,Printed with four decimals and denominator,abstract; Results,implemented
+R3.2,Statistician,Correlated task items as Bernoulli trials,valid_minor,Methods clarify unit and absence of intervals for item proportions,Methods Metrics,implemented
+R3.3,Statistician,Unit of Wilson interval,already_addressed,Records; 600 per rate,STATISTICAL_VALIDITY_AUDIT.md,closed
+R3.4,Statistician,Brier without intervals,valid_minor,Descriptive use documented,STATISTICAL_VALIDITY_AUDIT.md,implemented
+R4.1,Computational geometer,Group chain is classical,already_addressed,Labelled known,Section 3,closed
+R4.2,Computational geometer,Axis anchor re-encodes coordinates,valid_minor,Limitations; stress results,Limitations; Results,implemented
+R4.3,Computational geometer,Generic configuration assumptions,already_addressed,Stated,Limitations; ESM S1,closed
+R4.4,Computational geometer,Wrong chirality anchor reflects correct reconstruction,valid_material,X4 added and reported,Results; Discussion; abstract; Table S5,implemented
+R5.1,Reproducibility auditor,Configuration values typed into prose and figure title,valid_minor,Generated from registry/data,esi_content.py; figures.py,implemented
+R5.2,Reproducibility auditor,Titles inside figures contrary to ESI artwork rules,valid_minor,Figure-level titles removed,Figs 1-3 6 S1-S4,implemented
+R5.3,Reproducibility auditor,Word styling not 12 pt black TNR; captions not 10 pt,valid_minor,Styles corrected,build_submission.py style_document; captions,implemented
+R5.4,Reproducibility auditor,Public clone reproduction,already_addressed,Rerun after this pass,PUBLIC_FRESH_CLONE_REPRODUCTION.md,closed
+R5.5,Reproducibility auditor,Cover letter misstates JoG decision reason,valid_minor,Quotes editorial reason,cover_letter_final.docx,implemented
+R5.6,Reproducibility auditor,Private snapshots in public mirror,already_addressed,Master EXCLUDE_MAP verified,FINAL_QC_MATRIX.md,closed
+A1,Author,Add fundamental limitation on anchor validity and future work on anchor-fault detection,valid_material,Two author-supplied paragraphs added verbatim,Limitations,implemented

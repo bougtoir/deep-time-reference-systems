@@ -1,0 +1,374 @@
+{
+ "schema": "dtrs-relation-record",
+ "schema_version": "1.1.0",
+ "record_id": "itrf2020-slr-16-BR-standard",
+ "representation": "BR",
+ "entities": [
+  {
+   "id": "40445M004",
+   "label": "MAUI",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "40497M001",
+   "label": "Monument Peak",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "40442M006",
+   "label": "FORT DAVIS",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "40451M105",
+   "label": "Washington",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "48081S001",
+   "label": "Campus Universi",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "13402S007",
+   "label": "SAN FERNANDO",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "14001S007",
+   "label": "Zimmerwald",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "30302M003",
+   "label": "Hartebeesthoek",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "25603S001",
+   "label": "Baikonur Cosmod",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "12372S001",
+   "label": "Altay",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "12338S004",
+   "label": "Badary",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "50107M001",
+   "label": "Yarragadee",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "50119S003",
+   "label": "Mount Stromlo",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "12734S008",
+   "label": "Matera",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "13212S001",
+   "label": "Herstmonceux Ca",
+   "identifier_scheme": "IERS DOMES"
+  },
+  {
+   "id": "10002S002",
+   "label": "Grasse (OCA)",
+   "identifier_scheme": "IERS DOMES"
+  }
+ ],
+ "coordinates": {
+  "values": [
+   [
+    -5466065.6231,
+    -2404337.7154,
+    2242108.5531
+   ],
+   [
+    -2386278.7676,
+    -4802353.6724,
+    3444881.8466
+   ],
+   [
+    -1330021.294,
+    -5328401.8389,
+    3236480.6968
+   ],
+   [
+    1130719.3629,
+    -4831350.5753,
+    3994106.5851
+   ],
+   [
+    4119502.0946,
+    -4553595.2476,
+    -1722855.0836
+   ],
+   [
+    5105473.8207,
+    -555110.3979,
+    3769893.061
+   ],
+   [
+    4331283.4215,
+    567550.0711,
+    4633140.4768
+   ],
+   [
+    5085401.0913,
+    2668330.4288,
+    -2768688.574
+   ],
+   [
+    2001873.2104,
+    3987633.4451,
+    4542477.7273
+   ],
+   [
+    543405.6777,
+    3955302.3139,
+    4957821.0315
+   ],
+   [
+    -838300.1073,
+    3865738.8634,
+    4987640.8901
+   ],
+   [
+    -2389007.7701,
+    5043329.4858,
+    -3078523.9709
+   ],
+   [
+    -4467064.9663,
+    2683034.8906,
+    -3667007.0948
+   ],
+   [
+    4641978.5239,
+    1393067.8197,
+    4133249.6959
+   ],
+   [
+    4033463.4763,
+    23662.7873,
+    4924305.3508
+   ],
+   [
+    4581691.9389,
+    556196.3678,
+    4389355.2869
+   ]
+  ],
+  "velocities": [
+   [
+    -0.01287,
+    0.06217,
+    0.03194
+   ],
+   [
+    -0.03077,
+    0.02541,
+    0.01392
+   ],
+   [
+    -0.01258,
+    0.00081,
+    -0.00485
+   ],
+   [
+    -0.01504,
+    0.00017,
+    0.00228
+   ],
+   [
+    -0.00281,
+    -0.00317,
+    0.01202
+   ],
+   [
+    -0.00945,
+    0.01775,
+    0.01344
+   ],
+   [
+    -0.01372,
+    0.01809,
+    0.01171
+   ],
+   [
+    -0.00069,
+    0.01975,
+    0.01561
+   ],
+   [
+    -0.02594,
+    0.0077,
+    0.0031
+   ],
+   [
+    -0.02615,
+    0.00379,
+    0.00012
+   ],
+   [
+    -0.02769,
+    -0.00112,
+    -0.00638
+   ],
+   [
+    -0.04682,
+    0.00797,
+    0.05096
+   ],
+   [
+    -0.03645,
+    0.00034,
+    0.04552
+   ],
+   [
+    -0.01863,
+    0.01906,
+    0.01462
+   ],
+   [
+    -0.01316,
+    0.01708,
+    0.00981
+   ],
+   [
+    -0.01388,
+    0.01886,
+    0.01117
+   ]
+  ],
+  "standard_uncertainty_m": [
+   [
+    0.0007,
+    0.0009,
+    0.0007
+   ],
+   [
+    0.0021,
+    0.0018,
+    0.0017
+   ],
+   [
+    0.001,
+    0.0009,
+    0.0009
+   ],
+   [
+    0.0007,
+    0.0006,
+    0.0007
+   ],
+   [
+    0.0033,
+    0.0033,
+    0.0031
+   ],
+   [
+    0.0022,
+    0.0024,
+    0.0019
+   ],
+   [
+    0.0006,
+    0.0006,
+    0.0006
+   ],
+   [
+    0.0008,
+    0.001,
+    0.0008
+   ],
+   [
+    0.0017,
+    0.002,
+    0.0014
+   ],
+   [
+    0.0019,
+    0.002,
+    0.0023
+   ],
+   [
+    0.0018,
+    0.0017,
+    0.0017
+   ],
+   [
+    0.0007,
+    0.0006,
+    0.0007
+   ],
+   [
+    0.0006,
+    0.0007,
+    0.0007
+   ],
+   [
+    0.0006,
+    0.0007,
+    0.0006
+   ],
+   [
+    0.0006,
+    0.0007,
+    0.0007
+   ],
+   [
+    0.0007,
+    0.0007,
+    0.0007
+   ]
+  ]
+ },
+ "reference_system": {
+  "crs_id": "ITRF2020 geocentric Cartesian (standard storage axes)",
+  "frame": "ITRF2020",
+  "axes": [
+   "geocentricX",
+   "geocentricY",
+   "geocentricZ"
+  ],
+  "unit": "metre",
+  "frame_reference_epoch": 2015.0,
+  "coordinate_epoch": 2015.0
+ },
+ "redundant_reference_system": {
+  "crs_id": "ITRF2020 geocentric Cartesian (standard storage axes)",
+  "frame": "ITRF2020",
+  "axes": [
+   "geocentricX",
+   "geocentricY",
+   "geocentricZ"
+  ],
+  "unit": "metre",
+  "frame_reference_epoch": 2015.0,
+  "coordinate_epoch": 2015.0
+ },
+ "digital_chirality": {
+  "triple": [
+   0,
+   4,
+   11
+  ],
+  "sign": 1,
+  "evidence": "digital_copy"
+ },
+ "fixity": {
+  "algorithm": "sha256",
+  "scope": "coordinates.values",
+  "coordinate_values_sha256": "2fd838ac3c08449eeb749c80294d20f8611851ce07e9b23e84e3b04b715a9fe6"
+ }
+}
